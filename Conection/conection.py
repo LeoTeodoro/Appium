@@ -7,7 +7,7 @@ class Driver:
             "platformName": "Android",
             "automationName": "UiAutomator2",
             "avd": "Appium",
-            "app": "C:\\PalmLog_Release_2_0_21.apk",
+            "app": "C:\\PalmLog_Release_2_0_22.apk",
             "deviceName": "emulator-5554",
             "platformVersion": "15"
         }
